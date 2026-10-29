@@ -12,5 +12,12 @@
     "tema": "Looks de Natal",
     "n": 2,
     "looks": 5
+  },
+  {
+    "data": "2026-10-26",
+    "slug": "all-black",
+    "tema": "All Black",
+    "n": 3,
+    "looks": 5
   }
 ]
